@@ -12,9 +12,9 @@ import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.android.gd11_c_0664.adapters.MahasiswaAdapter
-import com.android.gd11_c_0664.api.MahasiswaApi
-import com.android.gd11_c_0664.models.Mahasiswa
+import com.example.gd11_c_0664.adapter.MahasiswaAdapter
+import com.example.gd11_c_0664.api.MahasiswaApi
+import com.example.gd11_c_0664.models.Mahasiswa
 import com.android.volley.AuthFailureError
 import com.android.volley.RequestQueue
 import com.android.volley.Response
