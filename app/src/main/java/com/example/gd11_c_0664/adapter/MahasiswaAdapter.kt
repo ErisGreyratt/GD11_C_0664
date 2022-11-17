@@ -11,10 +11,10 @@ import android.widget.ImageButton
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
-import com.android.gd11_c_0664.AddEditActivity
-import com.android.gd11_c_0664.MainActivity
-import com.android.gd11_c_0664.R
-import com.android.gd11_c_0664.models.Mahasiswa
+import com.example.gd11_c_0664.AddEditActivity
+import com.example.gd11_c_0664.MainActivity
+import com.example.gd11_c_0664.R
+import com.example.gd11_c_0664.models.Mahasiswa
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import java.util.*
 import kotlin.collections.ArrayList

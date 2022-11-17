@@ -7,8 +7,8 @@ import android.text.style.TabStopSpan.Standard
 import android.view.View
 import android.view.WindowManager
 import android.widget.*
-import com.android.gd11_c_0664.api.MahasiswaApi
-import com.android.gd11_c_0664.models.Mahasiswa
+import com.example.gd11_c_0664.api.MahasiswaApi
+import com.example.gd11_c_0664.models.Mahasiswa
 import com.android.volley.AuthFailureError
 import com.android.volley.RequestQueue
 import com.android.volley.Response
